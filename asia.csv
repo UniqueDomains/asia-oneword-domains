@@ -300,7 +300,7 @@ fcc5559f-bbb2-48ab-bb57-ca1fa27febfd,afferent.asia,available,70,3,8,,,
 11f0d357-1d6a-4f54-b615-43b99225cda1,affixial.asia,available,50,1,8,,,
 65596f21-4ab8-4a1e-931a-3f4d3015f9b0,afflicted.asia,available,54,3,9,,,
 c621172d-6d5a-49ae-a682-df61ba98ed69,afflictive.asia,available,54,1,10,,,
-d07dfd55-3655-4bfc-94e0-00bb6f5ddc7a,affluent.asia,available,88,9,8,,,
+d07dfd55-3655-4bfc-94e0-00bb6f5ddc7a,affluent.asia,available,88,8,8,,,
 e5237d20-f268-4c66-9afc-8b9fbe1136a2,afghan.asia,available,54,10,6,,,
 4912a29f-850c-4f2a-98ac-faeaa06bde0b,afghani.asia,available,68,3,7,,,
 64d06cd3-fb59-419f-8574-27d66ed6271d,aflame.asia,available,64,4,6,,,
@@ -327,7 +327,7 @@ c87cb32b-ca1f-4df4-9462-774abf8a447e,agaze.asia,available,56,2,5,,,
 1b22d457-7d93-4da5-aca4-df8ada10858c,aggravated.asia,available,58,2,10,,,
 2a5509b8-b150-4527-b580-84165585a0b0,aggregated.asia,available,56,3,10,,,
 6fa1b7ba-ac6a-4653-bdc6-0e9aa2c0173a,aggressive.asia,available,84,6,10,,,
-5545fce0-5bef-4488-9840-011673d2e012,aging.asia,available,86,11,5,,,
+5545fce0-5bef-4488-9840-011673d2e012,aging.asia,available,86,10,5,,,
 5d175681-38bf-4c85-a377-a8a8305775db,agitated.asia,available,58,2,8,,,
 513db86e-a487-4bb4-ae3f-1e733493fc87,agitating.asia,available,54,1,9,,,
 81a8940f-c495-443d-a312-fefcfda94b8f,agitative.asia,available,52,1,9,,,
@@ -1791,7 +1791,7 @@ e7f02834-9c80-4fbc-9657-8df039887c23,eightieth.asia,available,72,1,9,,,
 da9998ee-212b-4f78-83b1-d24e920ea720,eightyone.asia,available,52,4,10,,,
 272d623f-79fe-47e7-bc5e-760cefcbd573,eightysix.asia,available,60,7,10,,,
 af1f1da1-3ad9-4f13-aa3b-66c05ca8d2e4,elaborated.asia,available,64,1,10,,,
-e258ea80-e190-4230-9cec-457f411edc78,elderly.asia,available,94,10,7,,,
+e258ea80-e190-4230-9cec-457f411edc78,elderly.asia,available,94,9,7,,,
 eb347366-33d7-492a-bb8f-6bd28dcd2896,electronic.asia,available,68,22,10,,,
 7f9a2337-34ee-4318-936d-8604297a55ba,eleven.asia,resell,88,37,6,Dreamscape Networks International Pte Ltd,19/07/2008 07:05,19/07/2026 07:05
 e3a543a4-821b-431b-bb02-a205d9d89446,eleventh.asia,available,62,5,8,,,
@@ -2220,7 +2220,7 @@ fc07bb7f-281c-4aba-92a7-b15793d93dec,large.asia,resell,82,21,5,"Chengdu West Dim
 7421a68c-7f7c-4c76-bb97-27c4eb3c10b9,larger.asia,available,76,4,6,,,
 020a1cdb-3c4c-401a-b5ad-0b730f12184b,last.asia,resell,76,32,4,"DNSPod, Inc.",09/02/2025 16:02,09/02/2026 16:02
 5f314e30-928f-4789-997e-9b048255e237,lasting.asia,available,84,12,7,,,
-c887f481-d091-4170-a74e-722f4de5794e,later.asia,available,74,17,5,,,
+c887f481-d091-4170-a74e-722f4de5794e,later.asia,available,74,16,5,,,
 a054a6b5-8b28-4326-b8e8-a1e6cee308e0,lateron.asia,available,40,2,8,,,
 66645b59-1718-4195-ab42-3433fe4597eb,latter.asia,available,72,10,6,,,
 e8591241-fac7-4b1e-a9b5-f6e337f8b906,laudable.asia,available,58,4,8,,,
@@ -2325,6 +2325,7 @@ b4a7cd0e-5aea-4102-ac51-f35332953a54,man.asia,resell,84,28,3,"22net, Inc.",20/11
 bfb594bc-e9e5-4f3b-936b-1410f8b62920,marked.asia,available,70,11,6,,,
 ba2d0ddd-27c4-4b95-afa3-374cffe653f8,marooned.asia,available,50,4,8,,,
 b3636d34-0cc5-4efc-8c84-a3159424759f,marvellous.asia,available,76,11,10,,,
+8f4e4f86-8004-49cc-9bf1-ebb6f970ec29,mass.asia,resell,78,26,4,"Xiamen ChinaSource Internet Service Co., Ltd",18/08/2025 12:05,18/08/2026 12:05
 f611efc7-f4a6-426c-b9dc-11e766afcd3c,masterly.asia,available,79,17,8,,,
 0a0b08da-1d8e-4eb2-a8de-58710a1c7004,mat.asia,resell,76,25,3,"Spaceship, Inc.",18/07/2025 02:59,18/07/2026 02:59
 65b87469-7aa1-41c7-978c-7fae18dc6587,matched.asia,available,78,10,7,,,
@@ -3268,7 +3269,7 @@ fc97de2e-0e97-4ede-8034-b1fb444e839f,void.asia,resell,112,41,4,"Spaceship, Inc."
 9a866a55-d394-4bfb-8688-38dcacb78d94,wander.asia,resell,64,29,6,Dynadot Inc,31/08/2025 07:56,31/08/2026 07:56
 8306586d-acec-4882-b0cd-4ba8c59ab452,wannabe.asia,available,52,10,7,,,
 ae8ec119-5500-4276-a5ca-7319a75623ba,wannabee.asia,available,48,3,8,,,
-e17c7d61-31c1-4825-8258-efd1f731e35e,warm.asia,resell,112,16,4,CSL Computer Service Langenbach GmbH d/b/a Joker.com,11/07/2008 07:07,11/07/2026 07:07
+e17c7d61-31c1-4825-8258-efd1f731e35e,warm.asia,resell,112,15,4,CSL Computer Service Langenbach GmbH d/b/a Joker.com,11/07/2008 07:07,11/07/2026 07:07
 0a74eed9-4fd9-4044-96e2-739bfeb2606a,wasted.asia,available,50,12,6,,,
 a0d98685-13ad-4201-bb94-d71f3079f717,wasteland.asia,available,44,9,9,,,
 5a0864d5-15ed-4a26-9122-c2e581e7380c,watchful.asia,available,64,6,8,,,
