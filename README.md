@@ -44,7 +44,7 @@ If you want to search & filters the complete database of [.ASIA one word domains
 | abhorrent.asia  | available | 54       | 3%     | 9      |                                           |                  |                  |
 | abiding.asia    | available | 106      | 5%     | 7      |                                           |                  |                  |
 | abient.asia     | available | 54       | 1%     | 6      |                                           |                  |                  |
-| ability.asia    | available | 92       | 18%    | 7      |                                           |                  |                  |
+| ability.asia    | premium   | 92       | 18%    | 7      |                                           |                  |                  |
 | abkhas.asia     | available | 68       | 1%     | 6      |                                           |                  |                  |
 | abkhasian.asia  | available | 78       | 1%     | 9      |                                           |                  |                  |
 | abkhaz.asia     | available | 82       | 2%     | 6      |                                           |                  |                  |
