@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .ASIA one-word domains still available to buy.
 
-This dataset contains 3,762 .ASIA one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,905 .ASIA one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.ASIA one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=description.top) (3,760) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.ASIA one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/asia-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/asia-oneword-domains/blob/main/asia.csv"><b>⬇️ CSV (3.76K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/asia-oneword-domains/blob/main/asia.json"><b>⬇️ JSON (3.76K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/asia-oneword-domains/blob/main/asia.csv"><b>⬇️ CSV (3.91K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/asia-oneword-domains/blob/main/asia.json"><b>⬇️ JSON (3.91K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.76K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain          | Status    | Attract. | Demand | Length | Registrar                                 | Created          | Expires          |
 | --------------- | --------- | -------- | ------ | ------ | ----------------------------------------- | ---------------- | ---------------- |
-| aaron.asia      | resell    | 88       | 32%    | 5      | Dreamscape Networks International Pte Ltd | 23/05/2008 07:01 | 23/05/2026 07:01 |
+| aaron.asia      | resell    | 88       | 28%    | 5      | Dreamscape Networks International Pte Ltd | 23/05/2008 07:01 | 23/05/2026 07:01 |
 | abactinal.asia  | available | 50       | 1%     | 9      |                                           |                  |                  |
 | abaft.asia      | available | 43       | 2%     | 5      |                                           |                  |                  |
 | abandoned.asia  | available | 58       | 7%     | 9      |                                           |                  |                  |
@@ -42,20 +42,20 @@ If you want to search & filters the complete database of [.ASIA one word domains
 | aberrant.asia   | available | 74       | 7%     | 8      |                                           |                  |                  |
 | abeyant.asia    | available | 56       | 2%     | 7      |                                           |                  |                  |
 | abhorrent.asia  | available | 54       | 3%     | 9      |                                           |                  |                  |
+| abide.asia      | available | 94       | 15%    | 5      |                                           |                  |                  |
 | abiding.asia    | available | 106      | 5%     | 7      |                                           |                  |                  |
 | abient.asia     | available | 54       | 1%     | 6      |                                           |                  |                  |
-| ability.asia    | premium   | 92       | 18%    | 7      |                                           |                  |                  |
+| ability.asia    | resell    | 92       | 16%    | 7      | Dynadot Inc                               | 28/10/2025 13:49 | 28/10/2026 13:49 |
 | abkhas.asia     | available | 68       | 1%     | 6      |                                           |                  |                  |
 | abkhasian.asia  | available | 78       | 1%     | 9      |                                           |                  |                  |
 | abkhaz.asia     | available | 82       | 2%     | 6      |                                           |                  |                  |
 | abkhazian.asia  | available | 78       | 1%     | 9      |                                           |                  |                  |
 | ablated.asia    | available | 52       | 2%     | 7      |                                           |                  |                  |
-| ablative.asia   | available | 68       | 3%     | 8      |                                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/asia-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/asia-oneword-domains/blob/main/asia.csv"><b>⬇️ CSV (3.76K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/asia-oneword-domains/blob/main/asia.json"><b>⬇️ JSON (3.76K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/asia-oneword-domains/blob/main/asia.csv"><b>⬇️ CSV (3.91K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/asia-oneword-domains/blob/main/asia.json"><b>⬇️ JSON (3.91K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=asia-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.76K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.ASIA one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
