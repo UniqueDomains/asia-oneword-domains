@@ -2939,11 +2939,13 @@ b2686a9c-e111-4bc9-8905-b38adffd09bf,key.asia,resell,80,36,3,"DNSPod, Inc.",16/1
 bbefac75-e305-4aa3-836e-fb18d4831ec6,kgb.asia,available,74,11,3,,,
 47048db3-6e60-41e2-bacb-7fa03ae71c5a,khakis.asia,available,74,2,6,,,
 03f631a9-9545-4496-a916-9ebd6ae31a28,kick.asia,resell,98,24,4,Dynadot Inc,20/03/2024 07:42,20/03/2026 07:42
-9053c66f-abfd-4d2f-9877-c857f0a44703,kicking.asia,available,78,,7,,,
+9053c66f-abfd-4d2f-9877-c857f0a44703,kicking.asia,available,78,4,7,,,
 8372b627-6156-4d63-a7cb-13475762483f,kill.asia,resell,62,16,4,"DNSPod, Inc.",24/08/2025 13:04,24/08/2026 13:04
 f70e5680-8214-4f76-b7a7-d95cdec79bba,kilo.asia,resell,78,22,4,"Chengdu West Dimension Digital Technology Co., Ltd.",05/06/2025 09:03,05/06/2026 09:03
 f9792425-1fd9-4213-a1c8-d25afde498a0,kilobyte.asia,available,70,6,8,,,
 d67ce3cb-f11c-458b-bf87-b659da46cbca,kilogram.asia,available,76,6,8,,,
+8515c5d1-f8b5-424c-9996-cfa6e91af247,kilometer.asia,available,70,5,9,,,
+fe4e052c-ba81-4477-8f4c-aacc51b23576,kilometre.asia,available,70,2,9,,,
 924a5ec6-9602-4ca4-a49d-0c81709778cd,kind.asia,resell,100,29,4,"Chengdu West Dimension Digital Technology Co., Ltd.",21/01/2025 03:24,21/01/2026 03:24
 9755c477-f30d-4e48-819f-25ccadb43957,kinda.asia,available,98,10,5,,,
 669d339e-41b2-49ee-a047-ecda43ea2eeb,kindof.asia,available,62,6,7,,,
@@ -2951,6 +2953,7 @@ d67ce3cb-f11c-458b-bf87-b659da46cbca,kilogram.asia,available,76,6,8,,,
 8a858146-2880-4666-81ad-9bb455ca822a,king.asia,resell,97,39,4,"Spaceship, Inc.",09/09/2008 05:01,09/09/2026 05:01
 cc075754-9c61-416f-85f7-cd547eabecea,kingjames.asia,available,75,5,10,,,
 10eb18ff-0b60-49ce-881f-7b716c0236a4,kiss.asia,resell,76,28,4,Dreamscape Networks International Pte Ltd,30/07/2008 11:04,30/07/2026 11:04
+ab71d869-3611-4dfd-b0f2-695dedf9409e,kitchen.asia,resell,66,27,7,1API GmbH,19/07/2008 07:11,19/07/2026 07:11
 747942af-be65-4c9a-9d3c-37e91ea7b08c,kitschy.asia,available,52,4,7,,,
 d5536556-36b5-4eee-9b57-96910f449f23,kneedeep.asia,available,54,3,9,,,
 23cade84-26c7-458d-b0ba-400b85a5d74f,knock.asia,available,66,12,5,,,
@@ -2962,12 +2965,21 @@ f3450383-27aa-4ab5-8268-5f3bc4aaa3a9,known.asia,available,92,16,5,,,
 7d0bbd22-a13f-49bd-924c-83945776cfbc,kookie.asia,available,72,6,6,,,
 2c6df4c4-de91-4f61-88ec-060d216b7281,kooky.asia,available,74,8,5,,,
 6afcbd1e-5578-457f-ad88-eefb78afca77,kudos.asia,resell,99,22,5,Dynadot Inc,08/05/2025 07:24,08/05/2026 07:24
+2772132a-8916-490d-a0f4-8f4eda8126b5,lab.asia,resell,88,42,3,1API GmbH,09/07/2008 07:03,09/07/2026 07:03
+68f8560e-8799-40e1-8d68-e60cf767f006,laborday.asia,available,68,3,9,,,
+52a3afea-2d66-432c-96fa-713f4d433357,laborer.asia,available,66,2,7,,,
 69f3652b-6a0d-42f3-8a41-eb45d5d507fe,laborious.asia,available,50,1,9,,,
 bce93a92-210a-4b26-92bd-7d7726d9f4db,labour.asia,available,62,11,6,,,
 b376b06d-7d25-499b-a232-16d00bad5e7a,lace.asia,available,98,15,4,,,
 d57c7b50-0aa3-4ecd-8ff8-11c89c55c158,lacking.asia,available,82,5,7,,,
+71ab8b12-07a1-4c06-84cb-6d6a8748cee1,lager.asia,available,88,9,5,,,
+1b02325f-eeee-4291-ac06-ac540b67ed4d,lake.asia,resell,72,24,4,"Xiamen ChinaSource Internet Service Co., Ltd",05/12/2025 15:16,05/12/2026 15:16
 1b99c8cd-9f05-4c65-bd21-6c4cb87cd10b,lambent.asia,available,64,5,7,,,
+cc3e51c3-9e88-41f2-a7b0-252ff39f100c,lamppost.asia,available,67,6,8,,,
+be14ce8f-82db-4766-895b-d33e5d69728c,lan.asia,resell,66,21,3,"Spaceship, Inc.",16/04/2025 02:43,16/04/2026 02:43
 26dbf574-8166-4d27-a482-2197851ac446,land.asia,resell,62,28,4,"GoDaddy.com, LLC",19/08/2008 05:04,19/08/2027 05:04
+5a50dc68-fb96-4277-b378-3e32c60673a8,landing.asia,resell,74,22,7,Dynadot Inc,19/05/2025 14:50,19/05/2026 14:50
+70932339-e1f1-4fa7-847e-b1f7e935b2d9,landline.asia,available,66,10,9,,,
 032c0431-10e2-4cd1-9491-4b50ed28f4e8,lapse.asia,available,88,7,5,,,
 fc07bb7f-281c-4aba-92a7-b15793d93dec,large.asia,resell,82,20,5,"Chengdu West Dimension Digital Technology Co., Ltd.",05/06/2025 09:24,05/06/2026 09:24
 e8c2207d-144b-4a5b-b463-3942fd0d4509,largely.asia,available,60,1,7,,,
@@ -2979,14 +2991,20 @@ baa01ed1-2c2a-41b8-9489-fe9b31cf7924,lastly.asia,available,60,4,6,,,
 f7dec863-178d-4329-bec7-f7a55594b99e,lately.asia,available,64,5,6,,,
 c887f481-d091-4170-a74e-722f4de5794e,later.asia,available,74,15,5,,,
 a054a6b5-8b28-4326-b8e8-a1e6cee308e0,lateron.asia,available,40,2,8,,,
+6186db62-4e48-4b72-9d02-b6baf920f729,latitude.asia,available,74,25,8,,,
 66645b59-1718-4195-ab42-3433fe4597eb,latter.asia,available,72,6,6,,,
 e8591241-fac7-4b1e-a9b5-f6e337f8b906,laudable.asia,available,58,4,8,,,
 2268dd5b-5019-4a0a-8853-8f5182f34ed2,laughable.asia,available,68,3,9,,,
+acff796c-7d83-4957-a164-f7a26c20dc6c,laughter.asia,available,76,7,8,,,
 cefc239b-0e1e-46ed-828a-be2264f7723d,lawless.asia,available,40,14,7,,,
+126afb8b-c586-43d9-9c49-a35c63c405ce,lawn.asia,available,64,18,4,,,
+4f006c7a-465d-47d2-9bf8-a7496408ead5,layer.asia,resell,62,23,5,Dynadot Inc,05/07/2025 16:31,05/07/2026 16:31
 2303c236-8443-4279-8d00-93001ebaa336,laziness.asia,available,58,2,8,,,
 c77f737c-cfab-424d-bda5-b53a4ecf87d3,lazuline.asia,available,46,3,8,,,
+094d1d19-8aa8-4da7-8532-59bb236b4c03,leadership.asia,available,76,31,10,,,
 8e621146-54cb-462a-9223-2289d1ca34be,leading.asia,available,102,17,7,,,
 190e982f-cf91-49c9-8c6e-c03c242b1669,leaf.asia,resell,92,32,4,"Xiamen ChinaSource Internet Service Co., Ltd",13/10/2025 15:16,13/10/2026 15:16
+dbfd1215-61d4-43fb-8d91-aab830e323b8,league.asia,resell,68,,6,"Xiamen ChinaSource Internet Service Co., Ltd",24/08/2025 16:10,24/08/2026 16:10
 86df9c72-184f-4a73-bd85-8d440e235615,leaning.asia,available,58,5,7,,,
 bb401161-0c54-42e9-9ddc-9c42072f83f8,learned.asia,available,71,6,7,,,
 27c51195-4934-419b-a020-09e88cd5c9eb,learning.asia,resell,76,32,8,"GoDaddy.com, LLC",01/08/2008 05:02,01/08/2026 05:02
@@ -3057,10 +3075,13 @@ e928670c-bb75-4374-b285-2a7367844556,lousy.asia,available,60,6,5,,,
 730c3ed2-9b14-45de-a30b-543eedb85fb8,lowrise.asia,available,84,2,8,,,
 408d7abf-4ebf-4df0-bfcd-b1f5009d2d69,lowtech.asia,available,60,7,8,,,
 3b5186fc-e7d2-4402-b61a-c0cd909f841d,loyal.asia,resell,76,20,5,Porkbun LLC,09/04/2016 04:53,09/04/2026 04:53
+12062bde-dd37-44f1-a085-76e4926be869,lp.asia,available,66,22,3,,,
+6cbddfc6-b63c-4115-a10f-5677ea97e585,lplate.asia,available,64,1,7,,,
 e07f4b32-d1ae-4509-bdd2-6bc304c22c30,luck.asia,resell,78,31,4,Porkbun LLC,28/04/2023 04:27,28/04/2026 04:27
 7b6728c7-8a21-4ab7-9821-b27be1d5ddcc,lucrative.asia,available,70,6,9,,,
 74b679be-e8bb-44c6-bd28-4dba3a7f5262,luncheon.asia,available,96,3,8,,,
 191a6166-e381-449e-a418-0527629be1ca,luxembourg.asia,available,60,3,10,,,
+d89530c1-5497-4888-86b0-8233b16c03d5,luxury.asia,available,98,32,6,,,
 6dc5bd9b-7eda-4dd3-9c6b-669499c1a3f6,lvi.asia,available,56,8,3,,,
 cc75d86c-476d-47e6-ae27-0a5a8c8a4e74,lvii.asia,available,56,2,4,,,
 f4dc7374-578b-4687-987f-259a73f54731,lviii.asia,available,56,1,5,,,
@@ -3132,6 +3153,7 @@ dbda0a60-ee9b-408c-b431-d758a450d8f1,matte.asia,available,90,12,5,,,
 814200e1-1ca1-4730-9b1d-70dee194b5e6,mavin.asia,available,74,8,5,,,
 78b8d95b-f616-4aa7-970c-442c68ba45b0,mawkish.asia,available,48,1,7,,,
 e8cd6846-fdb1-401a-abad-5bd828b9ffd0,may.asia,resell,76,28,3,CSL Computer Service Langenbach GmbH d/b/a Joker.com,05/07/2008 07:04,05/07/2026 07:04
+4d4c03ad-ccd5-48fc-a2ac-7facc5441511,maze.asia,resell,62,26,4,"Spaceship, Inc.",02/03/2025 08:12,02/03/2026 08:12
 1fa60f33-faf4-4f19-9483-9b13860bd62a,mazed.asia,available,45,4,5,,,
 8dbd7f9f-4120-4031-84ca-abf85b693664,mean.asia,available,64,12,4,,,
 ce0c4d41-47da-43df-81c3-deae37c5136b,meaningful.asia,available,74,14,10,,,
@@ -3708,6 +3730,7 @@ d85c8ee3-1756-4ed1-8950-cd49e3665fca,revolved.asia,available,61,2,8,,,
 409eff21-24d5-4d0a-89fc-6a30e3cbfc6a,rheumy.asia,available,54,1,6,,,
 1b99c364-c77c-4f80-bb23-7c4d3a7d9a76,rhythmic.asia,available,68,7,8,,,
 1b2c8614-ed37-4bfc-a3ea-904095d4eb29,ribald.asia,available,64,1,6,,,
+3cf7773f-c606-459e-9235-3c39cb9103ec,ribbon.asia,available,96,14,6,,,
 6d286f27-e2a3-45cb-8a42-fd323df703f2,rice.asia,resell,74,25,4,"GoDaddy.com, LLC",27/06/2008 07:04,27/06/2026 07:04
 38124100-dd54-4c9c-a3d7-f01fd055ab13,rich.asia,resell,72,28,4,"Spaceship, Inc.",10/10/2024 17:47,10/10/2026 17:47
 90a3b510-e831-41dd-940c-ac1c1dd46050,ride.asia,resell,94,30,4,"GoDaddy.com, LLC",01/08/2008 05:02,01/08/2026 05:02
@@ -3912,6 +3935,7 @@ d5394cc0-1609-4f43-8682-41b756cc85d7,slapup.asia,available,58,1,7,,,
 b03dcf45-d4bb-49bf-b1be-a018d6af8812,slave.asia,available,66,19,5,,,
 a1ebc208-0a66-4cb2-b087-026fd0220f6a,sliced.asia,available,74,7,6,,,
 39d683db-be91-407e-a26d-883961a0c94c,slick.asia,available,66,15,5,,,
+36a51bd9-5cd9-475f-9a88-c1861ed9ea4c,slide.asia,resell,90,27,5,Porkbun LLC,26/05/2025 02:44,26/05/2026 02:44
 4489d4bc-b042-485b-bb27-16ce71d59ce6,sliding.asia,available,78,4,7,,,
 bf510f7c-4328-4043-9173-0e1bc2407ea5,slight.asia,available,64,4,6,,,
 c8b5546a-d39e-46a1-8e67-aedcdf0d9f54,slighting.asia,available,56,1,9,,,
@@ -4054,6 +4078,7 @@ ef518e24-471c-4e24-9451-9f9c22dae689,substitute.asia,available,90,4,10,,,
 cd848136-1f39-4dbd-82d1-aa2fcdf2c4b9,successful.asia,resell,76,12,10,"Spaceship, Inc.",21/08/2022 04:04,21/08/2026 04:04
 7bb2ce6b-0c39-4c72-9ded-acb10c688499,succinct.asia,available,69,7,8,,,
 95559f9e-02f1-4690-b10c-8024e81fb133,such.asia,available,76,17,4,,,
+04e169d5-f039-4a3e-a8cb-bb486c866419,suck.asia,resell,84,11,4,"GoDaddy.com, LLC",01/07/2008 01:02,01/07/2026 01:02
 1c35c01a-c3a5-4c1b-94f9-0caecb4a57f7,sudden.asia,available,90,8,6,,,
 f39d4957-521d-4e44-b630-9f92ec683885,suffer.asia,available,68,7,6,,,
 1953c4da-f3eb-417a-a632-64b5408fd0a3,sufferable.asia,available,48,1,10,,,
@@ -4111,6 +4136,7 @@ e99d46b1-0a7a-4795-820c-72ccd923b327,tempting.asia,resell,88,4,8,"GoDaddy.com, L
 6a386245-2084-4d55-b8ba-6ccba3660318,ten.asia,resell,88,26,3,"Spaceship, Inc.",18/11/2024 00:19,18/11/2026 00:19
 38a4e472-1ad5-4192-a831-1588af708b04,tend.asia,available,76,16,4,,,
 51851721-8799-4c00-a27e-35f8aa275576,tenner.asia,available,66,4,6,,,
+40c8238c-c8ea-482c-a0fe-bc876a25429e,tennis.asia,resell,72,24,6,1API GmbH,16/08/2008 11:01,16/08/2026 11:01
 30e0d6cf-42d6-442d-b40a-0fc90f92cded,tentative.asia,available,81,3,9,,,
 e1603759-6629-48c2-8daf-fc6abc2a904a,tenth.asia,available,116,7,5,,,
 2427faa9-186b-4dec-9cce-bb4bb39c1ea6,tercet.asia,available,59,3,6,,,
@@ -4252,6 +4278,7 @@ cf78b786-361b-439a-b876-266edbf10d0d,twentyone.asia,available,84,11,10,,,
 cbab053a-fb76-4256-8e18-4d99a81214f9,twentysix.asia,available,78,7,10,,,
 15221850-8c71-4547-8c77-743061b41a7d,twentytwo.asia,available,84,9,10,,,
 19f75a55-07d1-4713-bcfe-30f480116fee,twice.asia,available,58,13,5,,,
+326ede39-da39-4b32-aed1-db12c54a8ba3,twine.asia,available,58,15,5,,,
 e9496f43-62e1-414f-8415-c002e8b91ffb,twinkly.asia,available,54,5,7,,,
 ecf052bd-e0f2-40fd-a043-ea19973aced8,twist.asia,resell,70,21,5,"Spaceship, Inc.",19/03/2025 02:15,19/03/2026 02:15
 0c77614a-5811-4576-b1d2-9b6796a87ff8,two.asia,resell,80,20,3,"DNSPod, Inc.",26/08/2025 02:46,26/08/2026 02:46
@@ -4327,6 +4354,7 @@ f9370f58-d943-48df-8c73-4f9e49ff5853,utterly.asia,available,68,4,7,,,
 5a3fc29e-80e6-4f8b-901a-381df0382fdc,valid.asia,premium,72,17,5,,,
 5c7992f8-4a78-4f1e-983b-5b290dad860a,valuable.asia,available,88,11,8,,,
 accd6665-cd1e-4260-8278-8af5989ddfbb,valued.asia,available,74,9,6,,,
+10758efe-9e83-4f81-983e-78f92915a1e2,vampire.asia,available,84,22,7,,,
 c45ea142-d9d7-45fa-8e5e-4aeb5c856a5a,van.asia,available,90,25,3,,,
 216997ba-ce6e-4775-aec9-4f4224554537,vandalism.asia,available,54,3,9,,,
 2d178af8-e748-4d91-87b8-93740fca0a32,variable.asia,available,80,13,8,,,
@@ -4383,6 +4411,7 @@ ae8ec119-5500-4276-a5ca-7319a75623ba,wannabee.asia,available,48,3,8,,,
 e93ee90a-ed4b-41e2-9e5e-f37e5e0d8ecc,wanting.asia,available,84,6,7,,,
 e17c7d61-31c1-4825-8258-efd1f731e35e,warm.asia,resell,112,13,4,CSL Computer Service Langenbach GmbH d/b/a Joker.com,11/07/2008 07:07,11/07/2026 07:07
 df115d8b-7a3f-45ef-be3b-2e1e39d324b7,warranty.asia,available,90,15,8,,,
+8f846eac-d033-4384-ac0f-18950efd05d5,washing.asia,available,88,8,7,,,
 ca0a7107-ef38-4dbb-9913-090cf95e6e81,washington.asia,available,81,17,10,,,
 0a74eed9-4fd9-4044-96e2-739bfeb2606a,wasted.asia,available,50,11,6,,,
 a0d98685-13ad-4201-bb94-d71f3079f717,wasteland.asia,available,44,9,9,,,
