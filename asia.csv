@@ -479,6 +479,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3404f9d8-0af0-469f-a02e-6daa0256438c,coffeesyrup.asia,available,2.99,,80,2,12,name.com,,
 340557e1-b73e-49e7-be1c-028e3dc77d0b,fittogether.asia,available,2.99,,80,4,12,name.com,,
 3419b578-0b17-4c92-b2a9-f5259c57b57a,shelters.asia,available,2.19,13.49,66,8,8,namesilo,,
+341dd5a4-08be-453e-96e0-3cbe6c9f542a,worthit.asia,premium,,,74,11,8,,,
 341f63a3-1854-475d-9c72-fb5f429faa2b,behindschedule.asia,available,2.99,,38,1,15,name.com,,
 344e02fd-0bc6-46bf-8fdb-4ff7eebc4300,persistence.asia,available,2.99,,72,12,11,name.com,,
 345c0758-4cb0-4ea5-878e-baddc053ee2a,explanations.asia,available,2.99,,50,2,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 68a1bdca-8561-4fbd-a06f-6ca376bdd85f,pantihose.asia,available,2.99,,70,2,9,name.com,,
 68bf327b-322c-4e4e-b57c-ca7ba278d113,thewholeshop.asia,available,2.99,,42,1,14,name.com,,
 68d5a30b-bfcd-418e-bf71-3bc75e28c25b,failed.asia,available,2.99,,60,11,6,name.com,,
-68dd75ff-d9b9-4559-b55e-3d6a8ad69a7e,fullfrontalnudity.asia,available,2.99,,48,1,19,name.com,,
