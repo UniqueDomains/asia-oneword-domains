@@ -1,10 +1,10 @@
-# Available .ASIA One-Word Domains (9,898)
+# Available .ASIA One-Word Domains (9,899)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C898%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C899%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .asia one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,898 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,899 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,898 domains · **Median ask:** $3.81 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,899 domains · **Median ask:** $3.81 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/asia`  
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | signs.asia         | available | $2.99     | —             | 64             | 22     | 5      | name.com                                  |
 | dogs.asia          | resell    | —         | —             | 76             | 28     | 4      | Spaceship, Inc.                           |
 | oceans.asia        | available | $2.99     | —             | 64             | 22     | 6      | name.com                                  |
-| bricks.asia        | resell    | —         | —             | 56             | 28     | 6      | Spaceship, Inc.                           |
-| bubbles.asia       | available | $2.99     | —             | 72             | 21     | 7      | name.com                                  |
 | trades.asia        | resell    | —         | —             | 71             | 26     | 6      | Spaceship, Inc.                           |
+| bubbles.asia       | available | $2.99     | —             | 72             | 21     | 7      | name.com                                  |
+| bricks.asia        | resell    | —         | —             | 56             | 26     | 6      | Spaceship, Inc.                           |
 | Mikey.asia         | available | $18.98    | —             | 70             | 21     | 5      | namecheap                                 |
 | sites.asia         | resell    | —         | —             | 53             | 26     | 5      | Dreamscape Networks International Pte Ltd |
 | VHS.asia           | available | $18.98    | —             | 71             | 20     | 3      | namecheap                                 |
-| comics.asia        | resell    | —         | —             | 68             | 24     | 6      | GoDaddy.com, LLC                          |
+| comics.asia        | resell    | —         | —             | 68             | 23     | 6      | GoDaddy.com, LLC                          |
 | generations.asia   | available | $2.99     | —             | 56             | 20     | 11     | name.com                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,898 live domains                         |
+| 1,000-row public sample | 9,899 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
