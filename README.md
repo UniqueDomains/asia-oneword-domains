@@ -1,10 +1,10 @@
-# Available .ASIA One-Word Domains (9,900)
+# Available .ASIA One-Word Domains (9,901)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C900%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C901%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .asia one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,900 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,901 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,900 domains · **Median ask:** $3.81 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,901 domains · **Median ask:** $3.12 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/asia`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                 |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| keepthechange.asia | available | $2.99     | —             | 46             | 59     | 15     | name.com                                  |
-| matcha.asia        | resell    | —         | —             | 86             | 39     | 6      | GoDaddy.com, LLC                          |
-| inhouse.asia       | premium   | —         | —             | 70             | 24     | 8      | —                                         |
-| forms.asia         | available | $2.99     | —             | 54             | 28     | 5      | name.com                                  |
-| river.asia         | resell    | —         | —             | 66             | 37     | 5      | Spaceship, Inc.                           |
-| worthit.asia       | premium   | —         | —             | 74             | 11     | 8      | —                                         |
-| pops.asia          | available | $2.19     | $13.49        | 74             | 24     | 4      | namesilo                                  |
-| bar.asia           | resell    | —         | —             | 76             | 35     | 3      | Realtime Register B.V.                    |
-| pls.asia           | available | $2.99     | —             | 60             | 23     | 3      | name.com                                  |
-| partners.asia      | resell    | —         | —             | 61             | 31     | 8      | Spaceship, Inc.                           |
-| signs.asia         | available | $2.99     | —             | 64             | 22     | 5      | name.com                                  |
-| dogs.asia          | resell    | —         | —             | 76             | 28     | 4      | Spaceship, Inc.                           |
-| oceans.asia        | available | $2.99     | —             | 64             | 22     | 6      | name.com                                  |
-| trades.asia        | resell    | —         | —             | 71             | 26     | 6      | Spaceship, Inc.                           |
-| bubbles.asia       | available | $2.99     | —             | 72             | 21     | 7      | name.com                                  |
-| bricks.asia        | resell    | —         | —             | 56             | 26     | 6      | Spaceship, Inc.                           |
-| Mikey.asia         | available | $18.98    | —             | 70             | 21     | 5      | namecheap                                 |
-| sites.asia         | resell    | —         | —             | 53             | 26     | 5      | Dreamscape Networks International Pte Ltd |
-| VHS.asia           | available | $18.98    | —             | 71             | 20     | 3      | namecheap                                 |
-| comics.asia        | resell    | —         | —             | 68             | 23     | 6      | GoDaddy.com, LLC                          |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| impossible.asia  | available | $2.99     | —             | 64             | 37     | 10     | name.com         |
+| kick.asia        | resell    | —         | —             | 98             | 79     | 4      | Dynadot Inc      |
+| adaptive.asia    | premium   | $2.19     | $13.49        | 76             | 32     | 8      | namesilo         |
+| reliability.asia | available | $2.59     | $13.49        | —              | 34     | 11     | namesilo         |
+| wise.asia        | resell    | —         | —             | 98             | 73     | 4      | 1API GmbH        |
+| wicked.asia      | premium   | $2.99     | $20.99        | 70             | 27     | 6      | name.com         |
+| unreal.asia      | available | $2.99     | —             | 64             | 30     | 6      | name.com         |
+| data.asia        | resell    | —         | —             | 70             | 53     | 4      | Spaceship, Inc.  |
+| intrigue.asia    | premium   | $2.59     | $13.49        | 80             | 11     | 8      | namesilo         |
+| solve.asia       | available | $2.59     | $13.49        | 102            | 28     | 5      | namesilo         |
+| link.asia        | resell    | —         | —             | 68             | 53     | 4      | GoDaddy.com, LLC |
+| open.asia        | premium   | —         | —             | 106            | 99     | 4      | —                |
+| latitude.asia    | available | $2.59     | $13.49        | 74             | 28     | 8      | namesilo         |
+| self.asia        | resell    | —         | —             | 64             | 48     | 4      | Spaceship, Inc.  |
+| audacious.asia   | premium   | —         | —             | 72             | 97     | 9      | —                |
+| mouse.asia       | available | $2.99     | —             | 62             | 28     | 5      | name.com         |
+| top.asia         | resell    | —         | —             | 82             | 47     | 3      | GoDaddy.com, LLC |
+| mail.asia        | premium   | —         | —             | 94             | 49     | 4      | —                |
+| burn.asia        | available | $2.19     | $13.49        | 76             | 27     | 4      | namesilo         |
+| brave.asia       | resell    | —         | —             | 76             | 47     | 5      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,900 live domains                         |
+| 1,000-row public sample | 9,901 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
