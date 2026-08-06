@@ -1,10 +1,10 @@
-# Available .ASIA One-Word Domains (9,901)
+# Available .ASIA One-Word Domains (9,922)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C901%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C922%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .asia one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,901 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,922 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,901 domains · **Median ask:** $3.12 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,922 domains · **Median ask:** $2.90 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/asia`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/asia`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .ASIA one-word domain 
 
 ### Files
 
-- `asia.csv` — public CSV extract (1,000 rows)
-- `asia.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `asia.csv`, public CSV extract (1,000 rows)
+- `asia.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| impossible.asia  | available | $2.99     | —             | 64             | 37     | 10     | name.com         |
-| kick.asia        | resell    | —         | —             | 98             | 79     | 4      | Dynadot Inc      |
-| adaptive.asia    | premium   | $2.19     | $13.49        | 76             | 32     | 8      | namesilo         |
-| reliability.asia | available | $2.59     | $13.49        | —              | 34     | 11     | namesilo         |
-| wise.asia        | resell    | —         | —             | 98             | 73     | 4      | 1API GmbH        |
-| wicked.asia      | premium   | $2.99     | $20.99        | 70             | 27     | 6      | name.com         |
-| unreal.asia      | available | $2.99     | —             | 64             | 30     | 6      | name.com         |
-| data.asia        | resell    | —         | —             | 70             | 53     | 4      | Spaceship, Inc.  |
-| intrigue.asia    | premium   | $2.59     | $13.49        | 80             | 11     | 8      | namesilo         |
-| solve.asia       | available | $2.59     | $13.49        | 102            | 28     | 5      | namesilo         |
-| link.asia        | resell    | —         | —             | 68             | 53     | 4      | GoDaddy.com, LLC |
-| open.asia        | premium   | —         | —             | 106            | 99     | 4      | —                |
-| latitude.asia    | available | $2.59     | $13.49        | 74             | 28     | 8      | namesilo         |
-| self.asia        | resell    | —         | —             | 64             | 48     | 4      | Spaceship, Inc.  |
-| audacious.asia   | premium   | —         | —             | 72             | 97     | 9      | —                |
-| mouse.asia       | available | $2.99     | —             | 62             | 28     | 5      | name.com         |
-| top.asia         | resell    | —         | —             | 82             | 47     | 3      | GoDaddy.com, LLC |
-| mail.asia        | premium   | —         | —             | 94             | 49     | 4      | —                |
-| burn.asia        | available | $2.19     | $13.49        | 76             | 27     | 4      | namesilo         |
-| brave.asia       | resell    | —         | —             | 76             | 47     | 5      | Spaceship, Inc.  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                            |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------- |
+| jesus.asia    | available | —         | —             | high           | medium | 5      | —                                                    |
+| fancy.asia    | resell    | —         | —             | high           | low    | 5      | CSL Computer Service Langenbach GmbH d/b/a Joker.com |
+| brief.asia    | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                         |
+| cxv.asia      | available | $1.98     | $18.98        | low            | low    | 3      | namecheap                                            |
+| ass.asia      | resell    | —         | —             | medium         | low    | 3      | GoDaddy.com, LLC                                     |
+| wicked.asia   | premium   | $2.99     | $20.99        | high           | low    | 6      | name.com                                             |
+| dip.asia      | available | $2.99     | —             | high           | low    | 3      | name.com                                             |
+| beg.asia      | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC                                          |
+| adaptive.asia | premium   | $2.19     | $13.49        | high           | low    | 8      | namesilo                                             |
+| ugh.asia      | available | $2.59     | $13.49        | medium         | low    | 3      | namesilo                                             |
+| jay.asia      | resell    | —         | —             | medium         | low    | 3      | DNSPod, Inc.                                         |
+| intrigue.asia | premium   | $2.59     | $13.49        | high           | low    | 8      | namesilo                                             |
+| UML.asia      | available | $2.59     | $13.49        | high           | low    | 3      | namesilo                                             |
+| man.asia      | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd.  |
+| xii.asia      | available | $2.99     | $20.99        | medium         | low    | 3      | name.com                                             |
+| may.asia      | resell    | —         | —             | high           | low    | 3      | CSL Computer Service Langenbach GmbH d/b/a Joker.com |
+| yur.asia      | available | $2.59     | $13.49        | high           | low    | 3      | namesilo                                             |
+| oak.asia      | resell    | —         | —             | medium         | low    | 3      | 1API GmbH                                            |
+| aged.asia     | available | $2.99     | $20.99        | high           | low    | 4      | name.com                                             |
+| pen.asia      | resell    | —         | —             | medium         | low    | 3      | 1API GmbH                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,901 live domains                         |
+| 1,000-row public sample | 9,922 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .asia domains. The set includes concise dictionary-style words like chore.asia, dear.asia, unit.asia, and annual.asia, alongside longer or more expressive names such as headoverheels.asia and youknowit.asia. For founders, the clearest candidates are the short, familiar words that are easy to say and remember. For investors, the key distinction is breadth of buyer appeal: generic words usually have wider resale potential than niche, abstract, or longer phrase-based names. Median ask pricing is around 3.81, so the main evaluation work is less about headline price and more about clarity, commercial relevance, and possible trademark friction.
+This list includes 9,922 one-word .asia domain names, the large majority available now and priced under $500. Names range from simple everyday words like out.asia and just.asia to more distinct picks like Scotchtape.asia. Demand is concentrated in the lower range, with only a small share of names scoring in higher demand tiers, so pricing stays accessible across most of the set.
 
-- All names in this selection use the .asia extension
-- Includes 9,887 domains updated daily
-- Median ask pricing is around 3.81
-- Short generic words usually merit the closest review
+- 9,922 one-word .asia domains, 9,148 available now
+- Median ask around $2.90 — most under $500
+- Only 38 names show mid-to-top demand scores
+- 6,008 names flagged as easy to spell
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
