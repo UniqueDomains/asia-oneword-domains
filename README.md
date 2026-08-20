@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .asia one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,331 domains · **Median ask:** $2.56 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/asia`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                            |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------- |
-| cxv.asia      | available | $1.98     | $18.98        | low            | low    | 3      | namecheap                                            |
-| ass.asia      | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC                                     |
-| wicked.asia   | premium   | $2.99     | $20.99        | high           | low    | 6      | name.com                                             |
-| dip.asia      | available | $2.99     | —             | high           | low    | 3      | name.com                                             |
-| beg.asia      | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC                                          |
-| adaptive.asia | premium   | $2.19     | $13.49        | high           | low    | 8      | namesilo                                             |
-| ugh.asia      | available | $2.59     | $13.49        | medium         | low    | 3      | namesilo                                             |
-| jay.asia      | resell    | —         | —             | medium         | low    | 3      | DNSPod, Inc.                                         |
-| intrigue.asia | premium   | $2.59     | $13.49        | high           | low    | 8      | namesilo                                             |
-| UML.asia      | available | $2.59     | $13.49        | high           | low    | 3      | namesilo                                             |
-| man.asia      | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd.  |
-| xii.asia      | available | $2.99     | $20.99        | medium         | low    | 3      | name.com                                             |
-| may.asia      | resell    | —         | —             | high           | low    | 3      | CSL Computer Service Langenbach GmbH d/b/a Joker.com |
-| yur.asia      | available | $2.59     | $13.49        | high           | low    | 3      | namesilo                                             |
-| oak.asia      | resell    | —         | —             | medium         | low    | 3      | 1API GmbH                                            |
-| aged.asia     | available | $2.99     | $20.99        | high           | low    | 4      | name.com                                             |
-| pen.asia      | resell    | —         | —             | medium         | low    | 3      | 1API GmbH                                            |
-| ages.asia     | available | $2.59     | $13.49        | medium         | low    | 4      | namesilo                                             |
-| pub.asia      | resell    | —         | —             | high           | low    | 3      | DotArai Co., Ltd.                                    |
-| asat.asia     | available | $1.98     | $18.98        | low            | low    | 4      | namecheap                                            |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                            |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------- |
+| jesus.asia     | available | —         | —             | high           | medium | 5      | —                                                    |
+| fancy.asia     | resell    | —         | —             | high           | low    | 5      | CSL Computer Service Langenbach GmbH d/b/a Joker.com |
+| brief.asia     | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                         |
+| chocolate.asia | available | —         | —             | high           | low    | 9      | —                                                    |
+| weather.asia   | resell    | —         | —             | high           | medium | 7      | Dynadot Inc                                          |
+| cxv.asia       | available | $1.98     | $18.98        | low            | low    | 3      | namecheap                                            |
+| ass.asia       | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC                                     |
+| wicked.asia    | premium   | $2.99     | $20.99        | high           | low    | 6      | name.com                                             |
+| dip.asia       | available | $2.99     | —             | high           | low    | 3      | name.com                                             |
+| beg.asia       | resell    | —         | —             | medium         | low    | 3      | Porkbun LLC                                          |
+| adaptive.asia  | premium   | $2.19     | $13.49        | high           | low    | 8      | namesilo                                             |
+| ugh.asia       | available | $2.59     | $13.49        | medium         | low    | 3      | namesilo                                             |
+| jay.asia       | resell    | —         | —             | medium         | low    | 3      | DNSPod, Inc.                                         |
+| intrigue.asia  | premium   | $2.59     | $13.49        | high           | low    | 8      | namesilo                                             |
+| UML.asia       | available | $2.59     | $13.49        | high           | low    | 3      | namesilo                                             |
+| man.asia       | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd.  |
+| xii.asia       | available | $2.99     | $20.99        | medium         | low    | 3      | name.com                                             |
+| may.asia       | resell    | —         | —             | high           | low    | 3      | CSL Computer Service Langenbach GmbH d/b/a Joker.com |
+| yur.asia       | available | $2.59     | $13.49        | high           | low    | 3      | namesilo                                             |
+| oak.asia       | resell    | —         | —             | medium         | low    | 3      | 1API GmbH                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
