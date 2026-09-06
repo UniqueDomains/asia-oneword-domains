@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .asia one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,086 domains · **Median ask:** $2.46 · **High-demand under $2,500:** 5
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/asia`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                            |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------------------- |
-| jesus.asia    | available | —         | —             | high           | medium | 5      | —                                                    |
-| fancy.asia    | resell    | —         | —             | high           | low    | 5      | CSL Computer Service Langenbach GmbH d/b/a Joker.com |
-| brief.asia    | resell    | —         | —             | high           | low    | 5      | DNSPod, Inc.                                         |
 | cxv.asia      | available | $1.98     | $18.98        | low            | low    | 3      | namecheap                                            |
 | ass.asia      | resell    | —         | —             | low            | low    | 3      | GoDaddy.com, LLC                                     |
 | wicked.asia   | premium   | $2.99     | $20.99        | high           | low    | 6      | name.com                                             |
@@ -84,6 +81,9 @@ print(df.head())
 | oak.asia      | resell    | —         | —             | medium         | low    | 3      | 1API GmbH                                            |
 | aged.asia     | available | $2.99     | $20.99        | high           | low    | 4      | name.com                                             |
 | pen.asia      | resell    | —         | —             | medium         | low    | 3      | 1API GmbH                                            |
+| ages.asia     | available | $2.59     | $13.49        | medium         | low    | 4      | namesilo                                             |
+| pub.asia      | resell    | —         | —             | high           | low    | 3      | DotArai Co., Ltd.                                    |
+| asat.asia     | available | $1.98     | $18.98        | low            | low    | 4      | namecheap                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
