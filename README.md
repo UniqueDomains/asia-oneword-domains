@@ -1,10 +1,10 @@
-# Available .ASIA One-Word Domains (18,006)
+# Available .ASIA One-Word Domains (18,311)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C006%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C311%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .asia one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **18,006 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,311 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 18,006 domains · **Median ask:** $2.59 · **High-demand under $2,500:** 14
+**Public extract:** 1,000 rows · **Live catalog:** 18,311 domains · **Median ask:** $2.60 · **High-demand under $2,500:** 14
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/asia`
@@ -69,20 +69,20 @@ print(df.head())
 | bps.asia  | available | $2.79     | $13.49        | high           | low    | 3      | namesilo                       |
 | cab.asia  | resell    | —         | —             | high           | low    | 3      | 1API GmbH                      |
 | kgb.asia  | available | $2.59     | $13.49        | high           | low    | 3      | namesilo                       |
-| csa.asia  | resell    | —         | —             | high           | low    | 3      | —                              |
-| lid.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
 | pan.asia  | resell    | —         | —             | high           | low    | 3      | Bizcn.com, Inc.                |
-| sly.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
+| lid.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
 | rip.asia  | resell    | —         | —             | high           | low    | 3      | 1API GmbH                      |
-| tin.asia  | available | $2.59     | $13.49        | high           | low    | 3      | namesilo                       |
+| sly.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
 | sex.asia  | resell    | —         | —             | high           | medium | 3      | Mesh Digital Limited           |
-| yob.asia  | available | $1.98     | $18.98        | medium         | low    | 3      | namecheap                      |
+| tin.asia  | available | $2.59     | $13.49        | high           | low    | 3      | namesilo                       |
 | two.asia  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                |
-| agal.asia | available | $1.98     | $18.98        | medium         | low    | 4      | namecheap                      |
+| vhf.asia  | available | $2.79     | $13.49        | high           | low    | 3      | namesilo                       |
+| usd.asia  | resell    | —         | —             | high           | low    | 3      | —                              |
+| yob.asia  | available | $1.98     | $18.98        | medium         | low    | 3      | namecheap                      |
 | able.asia | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                |
-| amur.asia | available | $2.79     | $13.49        | high           | low    | 4      | namesilo                       |
+| agal.asia | available | $1.98     | $18.98        | medium         | low    | 4      | namecheap                      |
 | dick.asia | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC               |
-| aram.asia | available | $2.79     | $13.49        | medium         | low    | 4      | namesilo                       |
+| amur.asia | available | $2.79     | $13.49        | high           | low    | 4      | namesilo                       |
 | hand.asia | resell    | —         | —             | high           | low    | 4      | Megazone Corp., dba HOSTING.KR |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 18,006 live domains                        |
+| 1,000-row public sample | 18,311 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 14 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
