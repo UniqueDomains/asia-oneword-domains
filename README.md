@@ -1,10 +1,10 @@
-# Available .ASIA One-Word Domains (23,021)
+# Available .ASIA One-Word Domains (24,237)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C021%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C237%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .asia one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,021 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,237 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,021 domains · **Median ask:** $2.64 · **High-demand under $2,500:** 21
+**Public extract:** 1,000 rows · **Live catalog:** 24,237 domains · **Median ask:** $2.65 · **High-demand under $2,500:** 22
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/tld/asia`
 **Best for:** founders, investors, studios
 
@@ -68,21 +68,21 @@ print(df.head())
 | cab.asia  | resell    | —         | —             | high           | low    | 3      | 1API GmbH                      |
 | bps.asia  | available | $2.79     | $13.49        | high           | low    | 3      | namesilo                       |
 | ent.asia  | resell    | —         | —             | high           | low    | 3      | —                              |
-| jos.asia  | available | $2.79     | $13.49        | medium         | low    | 3      | namesilo                       |
+| ctr.asia  | available | $1.68     | $11.59        | high           | low    | 3      | spaceship                      |
 | rip.asia  | resell    | —         | —             | high           | low    | 3      | 1API GmbH                      |
-| kgb.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
+| iww.asia  | available | $11.84    | $11.84        | medium         | low    | 3      | porkbun                        |
 | sex.asia  | resell    | —         | —             | high           | medium | 3      | Mesh Digital Limited           |
-| lid.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
+| jed.asia  | available | $2        | $11.99        | medium         | low    | 3      | dynadot                        |
 | two.asia  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                |
-| nah.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
+| jos.asia  | available | $2.79     | $13.49        | medium         | low    | 3      | namesilo                       |
 | usd.asia  | resell    | —         | —             | high           | low    | 3      | —                              |
-| ngc.asia  | available | $2        | $11.99        | medium         | low    | 3      | dynadot                        |
+| kgb.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
 | able.asia | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                |
-| vhf.asia  | available | $2.79     | $13.49        | high           | low    | 3      | namesilo                       |
+| lid.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
 | hand.asia | resell    | —         | —             | high           | low    | 4      | Megazone Corp., dba HOSTING.KR |
-| amur.asia | available | $2.79     | $13.49        | high           | low    | 4      | namesilo                       |
+| nah.asia  | available | $1.98     | $18.98        | high           | low    | 3      | namecheap                      |
 | nerd.asia | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
-| barb.asia | available | $2.79     | $13.49        | medium         | low    | 4      | namesilo                       |
+| ngc.asia  | available | $2        | $11.99        | medium         | low    | 3      | dynadot                        |
 | sing.asia | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,021 live domains                        |
+| 1,000-row public sample | 24,237 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 21 high-demand names under $2,500          |
+| Basic exported fields   | 22 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ASIA One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
